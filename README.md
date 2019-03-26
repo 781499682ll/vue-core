@@ -37,7 +37,7 @@ watch.emit
 编译模板,处理视图层(View)
 
 ```
-{{name}}  ->  laoyao
+{{name}}  ->  aaa
 ```
 
 
@@ -53,5 +53,5 @@ watch.emit
 
 compile就会监听，更新视图
 ```js
-vm.name = "lemon"
+vm.name = "bbb"
 ```
